@@ -12,13 +12,11 @@ function scuberGreetingForFeet(){
 }
 
 function ternaryCheckCity(){
-  // Write your code here!
   return city === 'NYC' ? 'Ok, sounds good.' : 'No go.';
 
 }
 
 function switchOnCharmFromTip(){
-  // Write your code here!
   switch (tip) {
     case "generous":
       return "Thank you so much.";
